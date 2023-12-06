@@ -1,0 +1,13 @@
+body{
+
+    background: url("img1.jpg")no-repeat;
+    background-size: cover ;
+    background-position: center;
+    min-height: 100vh;
+}
+.emailValidation{
+
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
